@@ -8,7 +8,7 @@ The starting point is a **Java Swing patient management system**: a desktop GUI 
 
 ## What the Lab Covers
 
-The lab is divided into four main sections:
+The lab is divided into five main sections:
 
 1. **Running the Legacy Swing Application** — Clone and run the original desktop app to understand what you are modernizing.
 
